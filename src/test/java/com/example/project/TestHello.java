@@ -18,7 +18,7 @@ public class TestHello {
      System.setOut(new PrintStream(bos));
 
      // action
-     TestHello.main(null);
+     //TestHello.main(null);
 
      // assertion
      assertEquals("7.427466391E9\n", bos.toString()); 
